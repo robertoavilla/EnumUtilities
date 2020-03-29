@@ -1,5 +1,8 @@
+
 # Enum Utilities
-Generic Enum Utility for .NET
+Generic Enum Utility for .NET Standard 2.0
+
+Ported from [https://github.com/arogozine/EnumUtilities](https://github.com/arogozine/EnumUtilities)
 
 - This library provides generic type safe enum operations - something that the Enum class lacks.
 - Written because the .NET `HasFlag` function for an enumeration is very slow and does type checking AT RUNTIME.
